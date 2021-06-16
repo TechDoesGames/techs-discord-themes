@@ -11,9 +11,9 @@
     --Unavailable: rgb(228, 15, 0);
     --Offline: rgb(90, 95, 100);
     --grey: rgb(85, 55, 120);
-	--grey5: rgba(85, 55, 120, .5);
-	--darkgrey: rgb(60, 39, 84);
-	--darkgrey5: rgba(60, 39, 84, .75);
+    --grey5: rgba(85, 55, 120, .5);
+    --darkgrey: rgb(60, 39, 84);
+    --darkgrey5: rgba(60, 39, 84, .75);
     --time: 5s;
     --TitleBG: var(--darkgrey5);
     --Sidebar: var(--darkgrey5);
